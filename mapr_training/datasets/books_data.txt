@@ -1,0 +1,743 @@
+1,Surface Treatment of Materials for Adhesive Bonding (Second Edition),2014-09-12 00:00:00
+2,Ecosystem Services,2015-04-03 00:00:00
+3,Venice Shall Rise Again,2014-05-17 00:00:00
+4,Public Debt Dynamics of Europe and the US,2014-09-05 00:00:00
+5,Homegrown Violent Extremism,2015-04-10 00:00:00
+6,A History of Modern Immunology,2014-07-29 00:00:00
+7,Ethical and Legal Issues in Neurology,2015-05-03 00:00:00
+8,Solid State Physics (Second Edition),2014-12-30 00:00:00
+9,Mass Production of Beneficial Organisms,2015-02-15 00:00:00
+10,Principles of Tissue Engineering (Fourth Edition),2015-01-13 00:00:00
+11,Polyphenols in Human Health and Disease,2014-11-29 00:00:00
+12,Industrial and Process Furnaces (Second Edition),2015-02-27 00:00:00
+13,Heat Transfer and Fluid Flow in Minichannels and Microchannels (Second Edition),2014-09-14 00:00:00
+14,Modelling Freight Transport,2014-07-03 00:00:00
+15,Ship Hydrostatics and Stability (Second Edition),2014-12-27 00:00:00
+16,Professional Misconduct against Juveniles in Correctional Treatment Settings,2014-12-04 00:00:00
+17,Materials Experience,2014-12-03 00:00:00
+18,Pharma's Prescription,2015-02-25 00:00:00
+19,Calculus of Thought,2015-03-10 00:00:00
+20,From Academia to Entrepreneur,2015-04-14 00:00:00
+21,The HDL Handbook (Second Edition),2015-01-28 00:00:00
+22,Manual of Coronary Chronic Total Occlusion Interventions,2015-01-14 00:00:00
+23,Modeling and Analysis of Real-Time and Embedded Systems with UML and MARTE,2015-03-20 00:00:00
+24,The Definitive Guide to ARM? CORTEX?-M3 and CORTEX?-M4 Processors (Third Edition),2014-10-03 00:00:00
+25,Practical Management of Pain (Fifth Edition),2014-07-26 00:00:00
+26,Single-Photon Generation and Detection,2014-06-26 00:00:00
+27,Gene Therapy of Cancer (Third Edition),2015-01-18 00:00:00
+28,Genetic Steroid Disorders,2014-09-28 00:00:00
+29,Osteogenesis Imperfecta,2015-02-22 00:00:00
+30,-- Book Title not available --,2014-12-07 00:00:00
+31,Radiative Heat Transfer (Third Edition),2015-03-31 00:00:00
+32,13 mises au point en chirurgie de la hanche,2014-08-31 00:00:00
+33,Infiltrations ‚choguid‚es,2015-04-28 00:00:00
+34,TDM des tumeurs abdominales (3Šme ‚dition),2014-10-26 00:00:00
+35,Traitement De L'image,2014-06-23 00:00:00
+36,Lupus ‚ryth‚mateux,2014-10-06 00:00:00
+37,Hyst‚roscopie et Fertiloscopie,2015-02-09 00:00:00
+38,D‚pressions Difficiles D‚pressions R‚sistantes,2014-11-07 00:00:00
+39,Atlas of Drosophila Morphology,2015-02-20 00:00:00
+40,Emery and Rimoin's Principles and Practice of Medical Genetics,2015-03-10 00:00:00
+41,Volatile Biomarkers,2014-06-09 00:00:00
+42,Back to Basics in Physiology,2015-01-19 00:00:00
+43,Success in Innovation,2014-10-27 00:00:00
+44,The Role of Catalysis for the Sustainable Production of Bio-fuels and Bio-chemicals,2015-02-10 00:00:00
+45,Low-abundance Proteome Discovery,2014-09-15 00:00:00
+46,Digital Outcasts,2015-04-11 00:00:00
+47,Visual Usability,2014-05-13 00:00:00
+48,Windows 2012 Server Network Security,2014-06-19 00:00:00
+49,Biofabrication,2014-12-27 00:00:00
+50,Engineered Nanopores for Bioanalytical Applications,2014-12-13 00:00:00
+51,Safety Design for Space Operations,2014-12-12 00:00:00
+52,The Designer's Guide to the Cortex-M Processor Family,2014-08-26 00:00:00
+53,Financial Whirlpools,2014-08-28 00:00:00
+54,Characterization of Biomaterials,2015-01-15 00:00:00
+55,Nanoalloys,2015-02-05 00:00:00
+56,Individual Differences and Personality (Second Edition),2014-06-24 00:00:00
+57,Memory Reconsolidation,2014-09-14 00:00:00
+58,Synthetic Biology,2014-08-18 00:00:00
+59,Earthquake-Resistant Structures,2015-04-24 00:00:00
+60,Forensic Fraud,2014-11-25 00:00:00
+61,Context Effects on Embodied Representation of Language Concepts,2014-07-16 00:00:00
+62,Polyvinyl Fluoride,2014-12-18 00:00:00
+63,Introduction to Food Engineering (Fifth Edition),2014-09-16 00:00:00
+64,Mathematical Models for Society and Biology (Second Edition),2014-09-06 00:00:00
+65,Professional Penetration Testing (Second Edition),2014-12-01 00:00:00
+66,Plasticizers Databook,2014-09-02 00:00:00
+67,Nonclinical Development of Novel Biologics Biosimilars Vaccines and Specialty Biologics,2015-01-02 00:00:00
+68,Medicinal Plant Research in Africa,2014-12-12 00:00:00
+69,Reliability Analysis of Dynamic Systems,2015-02-16 00:00:00
+70,The Effect of UV Light and Weather on Plastics and Elastomers (Third Edition),2014-06-08 00:00:00
+71,Biopolymers Reuse Recycling and Disposal,2014-08-16 00:00:00
+72,Handbook of Plasticizers (Second Edition),2014-07-09 00:00:00
+73,Handbook of Odors in Plastic Materials,2014-10-13 00:00:00
+74,Rheology (Second Edition),2015-02-10 00:00:00
+75,Handbook of Polymers,2014-08-21 00:00:00
+76,Atlas of Material Damage,2014-11-15 00:00:00
+77,Yen & Jaffe's Reproductive Endocrinology (Seventh Edition),2014-10-09 00:00:00
+78,Atlas of Sleep Medicine (Second Edition),2014-05-17 00:00:00
+79,Principles of Cloning (Second Edition),2015-02-04 00:00:00
+80,Application Administrators Handbook,2014-08-05 00:00:00
+81,Reflection Seismology,2014-09-15 00:00:00
+82,Extrusion (Second Edition),2014-08-18 00:00:00
+83,The Earth's Electric Field,2014-08-22 00:00:00
+84,CCTV (Third Edition),2014-12-18 00:00:00
+85,Aluminum?Lithium Alloys,2015-01-01 00:00:00
+86,Pipeline Integrity Handbook,2014-09-05 00:00:00
+87,Physical Security Guidelines,2015-03-03 00:00:00
+88,Job Reconnaissance,2015-04-13 00:00:00
+89,An„sthesie (10. Auflage),2014-08-20 00:00:00
+90,Was wir noch tun K”nnen: Rehabilitation am Lebensende,2015-03-04 00:00:00
+91,Orthop„disch-unfallchirurgische Begutachtung (2. Auflage),2014-06-07 00:00:00
+92,Therapie?Handbuch Infektiologie,2015-04-20 00:00:00
+93,Atlas orthop„disch-chirurgischer Zugangswege (6. Auflage),2015-03-15 00:00:00
+94,Nachbehandlungskonzepte in der Orthop„die und Unfallchirurgie,2014-08-18 00:00:00
+95,Differenziertes Krafttraining (4. Auflage),2015-05-03 00:00:00
+96,Kinderan„sthesie (8. Auflage),2014-07-02 00:00:00
+97,Begutachtung somatoformer und funktioneller St”rungen (3. Auflage),2015-02-23 00:00:00
+98,Allgemeine und spezielle Pharmakologie und Toxikologie (11. Auflage),2015-03-09 00:00:00
+99,Das Standardlabor in der naturheilkundlichen Praxis (4. Auflage),2015-05-02 00:00:00
+100,Nuclear Medicine (Fourth Edition),2014-05-13 00:00:00
+101,Tidy's Physiotherapy (Fifteenth Edition),2015-03-30 00:00:00
+102,Principles and Practice of Single Implant and Restorations,2014-06-03 00:00:00
+103,-- Book Title not available --,2014-10-06 00:00:00
+104,Recycling and Deinking of Recovered Paper,2015-01-13 00:00:00
+105,Introduction to Mortgages & Mortgage Backed Securities,2014-11-30 00:00:00
+106,Treatise on Process Metallurgy: Process Phenomena,2014-06-20 00:00:00
+107,Diagnosing Wild Species Harvest,2014-07-31 00:00:00
+108,Cancer Genomics,2014-10-13 00:00:00
+109,Electrocardiography of Laboratory Animals,2015-03-21 00:00:00
+110,Neural Crest Cells,2015-02-01 00:00:00
+111,Ideas of Quantum Chemistry (Second Edition),2014-09-24 00:00:00
+112,Enterprise Applications Administration,2014-08-27 00:00:00
+113,Interview Techniques for Ux Practitioners,2014-08-13 00:00:00
+114,Precambrian Evolution of the North China Craton,2014-05-10 00:00:00
+115,Radar and ARPA Manual (Third Edition),2015-03-11 00:00:00
+116,The Finite Element Method for Fluid Dynamics (Seventh Edition),2014-07-16 00:00:00
+117,Principles of Project Finance (Second Edition),2014-07-29 00:00:00
+118,Budget Constraints and Optimization in Sponsored Search Auctions,2014-12-21 00:00:00
+119,Beta Nucleation of Polypropylene,2014-09-18 00:00:00
+120,Clinical Imaging (Third Edition),2015-03-03 00:00:00
+121,Handbook of Pediatric Dentistry (Fourth Edition),2015-01-01 00:00:00
+122,A System of Orthopaedic Medicine (Third Edition),2015-02-16 00:00:00
+123,Fascia: The Tensional Network of the Human Body,2014-11-25 00:00:00
+124,Deep Tissue Massage Treatment (Second Edition),2015-02-14 00:00:00
+125,Canine and Feline Infectious Diseases,2015-04-11 00:00:00
+126,Equine Medicine Surgery and Reproduction (Second Edition),2014-07-26 00:00:00
+127,An Introduction to Biological Membranes,2014-09-30 00:00:00
+128,Windows Server 2012 Security from End to Edge and Beyond,2014-05-12 00:00:00
+129,Drug-induced Liver Disease (Third Edition),2015-03-31 00:00:00
+130,Reservoir Exploration and Appraisal,2015-03-11 00:00:00
+131,Diversity and the Effective Corporate Board,2014-05-18 00:00:00
+132,Chemical Modeling for Air Resources,2014-08-27 00:00:00
+133,Reducing Risk in Innovation,2014-08-05 00:00:00
+134,An Introduction to Real Estate Finance,2014-07-22 00:00:00
+135,Clinical Neurotherapy,2014-06-03 00:00:00
+136,Coal and Coalbed Gas,2015-01-16 00:00:00
+137,Personal Safety and Security Playbook,2014-05-05 00:00:00
+138,Corrosion Control in the Oil and Gas Industry,2014-08-03 00:00:00
+139,Handbook of Liquefied Natural Gas,2014-05-30 00:00:00
+140,Sputtering Materials for VLSI and Thin Film Devices,2014-08-02 00:00:00
+141,Stratigraphic Reservoir Characterization for Petroleum Geologists Geophysicists and Engineers,2014-12-19 00:00:00
+142,Techniques d'‚chographie cardiaque,2015-03-12 00:00:00
+143,Spinal Control,2015-03-31 00:00:00
+144,Respiratory Muscle Training,2014-09-11 00:00:00
+145,New and Future Developments in Catalysis: Catalysis for Remediation and Environmental Concerns,2015-04-17 00:00:00
+146,New and Future Developments in Catalysis: Catalytic Biomass Conversion,2014-07-01 00:00:00
+147,New and Future Developments in Catalysis: Hybrid Materials Composites and Organocatalysts,2014-10-05 00:00:00
+148,New and Future Developments in Catalysis: Solar Photocatalysis,2014-06-02 00:00:00
+149,System Parameter Identification,2014-10-28 00:00:00
+150,Waterborne Pathogens,2015-02-26 00:00:00
+151,The Path from Biomarker Discovery to Regulatory Qualification,2014-10-30 00:00:00
+152,Handbook of Multicultural Mental Health (Second Edition),2015-03-10 00:00:00
+153,Biomass Gasification Pyrolysis and Torrefaction (Second Edition),2014-08-09 00:00:00
+154,Kidnapping (Second Edition),2014-10-09 00:00:00
+155,Monitoring Water Quality,2015-03-05 00:00:00
+156,Nanoparticle Technologies,2014-06-20 00:00:00
+157,Pediatric Neurology Part I,2014-10-26 00:00:00
+158,Pediatric Neurology Part III,2014-12-13 00:00:00
+159,Physiological Systems in Insects (Third Edition),2015-01-31 00:00:00
+160,The Biology and Identification of the Coccidia (apicomplexa) of Rabbits of the World,2014-05-09 00:00:00
+161,The Future of Drug Discovery,2015-01-20 00:00:00
+162,Transfusion Medicine and Hemostasis (Second Edition),2014-08-23 00:00:00
+163,Computer and Information Security Handbook (Second Edition),2015-02-09 00:00:00
+164,Principles of Big Data,2014-06-09 00:00:00
+165,Swarm Intelligence and Bio-Inspired Computation,2015-04-13 00:00:00
+166,Tribology of Polymeric Nanocomposites (Second Edition),2014-06-23 00:00:00
+167,Introduction to Cyber-warfare,2014-09-20 00:00:00
+168,Pediatric Neurology,2014-07-17 00:00:00
+169,Ocean Circulation and Climate,2014-07-11 00:00:00
+170,Topological Insulators,2014-11-23 00:00:00
+171,Feminist Theory Crime and Social Justice,2014-05-06 00:00:00
+172,An Introduction to Dust Explosions,2015-02-15 00:00:00
+173,Multiphase Flow Analysis Using Population Balance Modeling,2014-05-12 00:00:00
+174,Theory of Simple Liquids (Fourth Edition),2015-03-28 00:00:00
+175,FISMA Compliance Handbook,2014-07-03 00:00:00
+176,Returning Carbon to Nature,2014-08-11 00:00:00
+177,Handbook of Fiber Optic Data Communication (Fourth Edition),2014-12-29 00:00:00
+178,Neuroeconomics (Second Edition),2014-07-06 00:00:00
+179,Biofuels from Algae,2014-05-10 00:00:00
+180,Forensic Victimology (Second Edition),2014-06-26 00:00:00
+181,From the Files of a Security Expert Witness,2015-03-29 00:00:00
+182,Mathematical Neuroscience,2014-05-29 00:00:00
+183,Safety Culture,2014-08-16 00:00:00
+184,Interpreting Aerial Photographs to Identify Natural Hazards,2015-02-16 00:00:00
+185,Kenya: A Natural Outlook,2014-07-13 00:00:00
+186,Residual Stresses in Friction Stir Welding,2014-05-26 00:00:00
+187,Computational Materials Science,2015-04-23 00:00:00
+188,Treatise on Process Metallurgy: Process Fundamentals,2014-08-07 00:00:00
+189,Bio-nanoimaging,2015-01-18 00:00:00
+190,Environmental Forensics for Persistent Organic Pollutants,2015-04-12 00:00:00
+191,Forensic Investigation of Sex Crimes and Sexual Offenders,2014-06-25 00:00:00
+192,Neutron Scattering - Fundamentals,2014-09-03 00:00:00
+193,Thin Film Solar Cells from Earth Abundant Materials,2015-02-27 00:00:00
+194,Accelerating Matlab with GPUs,2014-07-16 00:00:00
+195,User Interface Inspection Methods,2015-03-24 00:00:00
+196,Hydraulic Fracturing Chemicals and Fluids Technology,2015-01-05 00:00:00
+197,Intuitive Analog Circuit Design (Second Edition),2014-06-27 00:00:00
+198,Foodborne Infections and Intoxications (Fourth Edition),2014-07-27 00:00:00
+199,The Agronomy and Economy of Turmeric and Ginger,2014-09-28 00:00:00
+200,Heavy Oil Production Processes,2014-08-11 00:00:00
+201,Compressibility Turbulence and High Speed Flow (Second Edition),2014-09-02 00:00:00
+202,Model-Based Engineering for Complex Electronic Systems,2015-04-11 00:00:00
+203,Plasma Engineering,2015-03-12 00:00:00
+204,Corridors to Extinction and the Australian Megafauna,2015-03-11 00:00:00
+205,Mathematical Concepts and Methods in Modern Biology,2015-01-31 00:00:00
+206,Credit Insurance,2015-05-04 00:00:00
+207,Biorefinery in the Pulp and Paper Industry,2015-02-26 00:00:00
+208,Cancer Immunotherapy (Second Edition),2015-03-31 00:00:00
+209,Nanomedicine,2014-08-26 00:00:00
+210,Manson's Tropical Infectious Diseases (Twenty-third Edition),2015-02-28 00:00:00
+211,Climate Change Air Pollution and Global Challenges,2014-08-20 00:00:00
+212,Basic and Applied Bone Biology,2014-10-31 00:00:00
+213,Osteoporosis (Fourth Edition),2015-04-02 00:00:00
+214,Nanotechnology Safety,2014-11-01 00:00:00
+215,Handbook of Farm Dairy and Food Machinery Engineering (Second Edition),2015-01-14 00:00:00
+216,The Basics of Web Hacking,2014-08-02 00:00:00
+217,Fetal and Neonatal Secrets (Third Edition),2014-12-23 00:00:00
+218,Kaufman's Clinical Neurology for Psychiatrists (Seventh Edition),2014-12-01 00:00:00
+219,Clinical Anatomy of the Spine Spinal Cord and Ans (Third Edition),2014-09-06 00:00:00
+220,Consultative Hemostasis and Thrombosis (Third Edition),2014-11-05 00:00:00
+221,Endocrine Secrets (Sixth Edition),2014-09-30 00:00:00
+222,Fenichel's Clinical Pediatric Neurology (Seventh Edition),2015-01-14 00:00:00
+223,Atlas of Uncommon Pain Syndromes (Third Edition),2014-07-02 00:00:00
+224,Ocular Surface Disease: Cornea Conjunctiva and Tear Film,2015-04-26 00:00:00
+225,Radiochemistry and Nuclear Chemistry (Fourth Edition),2014-09-17 00:00:00
+226,Engineering Tribology (Fourth Edition),2014-09-21 00:00:00
+227,General Aviation Aircraft Design,2014-10-31 00:00:00
+228,Interfacing PIC Microcontrollers (Second Edition),2015-03-28 00:00:00
+229,Nanotube Superfiber Materials,2014-10-24 00:00:00
+230,Project Management Planning and Control (Sixth Edition),2015-02-05 00:00:00
+231,The Future of the Arab Spring,2014-06-09 00:00:00
+232,Aligning Security Services with Business Objectives,2014-05-24 00:00:00
+233,Building a Security Measures and Metrics Program,2014-06-12 00:00:00
+234,Media Exposure and Risk,2014-09-23 00:00:00
+235,Personnel Protection: Advance Procedures,2015-02-18 00:00:00
+236,Personnel Protection: Aircraft Security,2014-10-08 00:00:00
+237,Personnel Protection: Concepts of Executive Security,2014-06-22 00:00:00
+238,Influencing Global Risk Mitigation,2014-08-21 00:00:00
+239,Information Security,2014-12-17 00:00:00
+240,Renal disease in cancer patients,2014-07-15 00:00:00
+241,Linux Malware Incident Response,2014-05-11 00:00:00
+242,Small Wind,2014-05-28 00:00:00
+243,Studies in Natural Products Chemistry,2015-01-25 00:00:00
+244,Forest Monitoring,2015-01-07 00:00:00
+245,Up and Running with AutoCAD 2014,2014-05-05 00:00:00
+246,Invertebrate Learning and Memory,2014-09-09 00:00:00
+247,Corps Sensorialit‚ et Pathologies De la Symbolisation,2014-10-16 00:00:00
+248,Echocardiographie F?tale,2014-09-03 00:00:00
+249,Treatment of Infertility with Chinese Medicine (Second Edition),2014-05-15 00:00:00
+250,Myofascial Trigger Points,2014-05-21 00:00:00
+251,The Athletic Horse (Second Edition),2014-09-29 00:00:00
+252,Small Animal Medical Differential Diagnosis (Second Edition),2015-01-30 00:00:00
+253,Perioperative Transesophageal Echocardiography,2015-01-22 00:00:00
+254,Practical Pediatric Endocrinology in a Limited Resource Setting,2014-06-11 00:00:00
+255,Heavy and Extra-heavy Oil Upgrading Technologies,2014-09-11 00:00:00
+256,Enhanced Oil Recovery Field Case Studies,2015-02-28 00:00:00
+257,Getting Started with the MSP430 Launchpad,2014-12-09 00:00:00
+258,Reactive Polymers Fundamentals and Applications (Second Edition),2014-06-24 00:00:00
+259,Handbook of Advanced Ceramics (Second Edition),2014-06-21 00:00:00
+260,Assessing Vendors,2014-09-09 00:00:00
+261,The Case for the Chief Data Officer,2014-07-06 00:00:00
+262,Evaluating Environmental and Social Impact Assessment in Developing Countries,2014-12-01 00:00:00
+263,Regenerative Medicine Applications in Organ Transplantation,2015-03-09 00:00:00
+264,Databook of Antistatics,2014-05-11 00:00:00
+265,Fluid Mechanics and Thermodynamics of Turbomachinery (Seventh Edition),2014-05-11 00:00:00
+266,Handbook of Material Weathering (Fifth Edition),2015-01-27 00:00:00
+267,Orbital Mechanics for Engineering Students (Third Edition),2015-01-26 00:00:00
+268,The ROV Manual (Second Edition),2014-10-10 00:00:00
+269,LTE-Advanced,2014-08-26 00:00:00
+270,Essential PTC Mathcad? Prime? 3.0,2014-08-26 00:00:00
+271,Designing Embedded Systems with 32-bit PIC Microcontrollers and MicroC,2015-01-17 00:00:00
+272,Biological DNA Sensor,2014-06-18 00:00:00
+273,Food Safety Management,2014-05-05 00:00:00
+274,Seismic Stratigraphy and Depositional Facies Models,2015-01-16 00:00:00
+275,An Exploration Into China's Economic Development and Electricity Demand by the Year 2050,2015-01-28 00:00:00
+276,Solar Energy Engineering (Second Edition),2015-04-24 00:00:00
+277,Solar Energy Markets,2014-12-28 00:00:00
+278,Plant Virology (Fifth Edition),2014-10-19 00:00:00
+279,Mathematical Formulas for Industrial and Mechanical Engineering,2014-09-06 00:00:00
+280,MATLAB for Neuroscientists (Second Edition),2015-04-21 00:00:00
+281,Treatment Planning for Person-centered Care (Second Edition),2014-06-25 00:00:00
+282,Diabetes,2014-06-07 00:00:00
+283,Trading and Money Management in a Student-Managed Portfolio,2014-12-04 00:00:00
+284,Quest for the Cure,2014-08-15 00:00:00
+285,The Basics of IT Audit,2014-06-04 00:00:00
+286,Introduction to Mineralogy and Petrology,2014-11-23 00:00:00
+287,Pyridines: from Lab to Production,2015-02-25 00:00:00
+288,Landscape Evolution in the United States,2014-08-13 00:00:00
+289,Essential Matlab for Engineers and Scientists (Fifth Edition),2014-12-19 00:00:00
+290,Matlab by Example,2015-04-28 00:00:00
+291,Op Amps for Everyone (Fourth Edition),2014-07-21 00:00:00
+292,Reconsidering Funds of Hedge Funds,2015-01-21 00:00:00
+293,Analysis and Probability,2014-11-25 00:00:00
+294,Epigenetic Regulation in the Nervous System,2015-01-02 00:00:00
+295,Hurting Memories and Beneficial Forgetting,2014-11-05 00:00:00
+296,Genetically Modified Food Sources,2014-11-13 00:00:00
+297,Sulfuric Acid Manufacture (Second Edition),2014-05-23 00:00:00
+298,Introduction to Biological and Small Molecule Drug Research and Development,2015-01-28 00:00:00
+299,Implementing Analytics,2014-12-25 00:00:00
+300,Advances in Analog and Rf Ic Design for Wireless Communication Systems,2014-05-30 00:00:00
+301,Micromechanics of Composites,2014-08-21 00:00:00
+302,Optical Fiber Telecommunications (Sixth Edition),2015-01-31 00:00:00
+303,Ascaris: the Neglected Parasite,2015-02-18 00:00:00
+304,The Science and Technology of Rubber (Fourth Edition),2014-06-28 00:00:00
+305,Pattern Formations and Oscillatory Phenomena,2014-05-30 00:00:00
+306,The Wireshark Field Guide,2014-12-12 00:00:00
+307,Introduction to Fluoropolymers,2014-05-22 00:00:00
+308,New and Future Developments in Catalysis: Activation of Carbon Dioxide,2014-11-12 00:00:00
+309,New and Future Developments in Catalysis: Batteries Hydrogen Storage and Fuel Cells,2015-04-27 00:00:00
+310,New and Future Developments in Catalysis: Catalysis by Nanoparticles,2015-03-20 00:00:00
+311,Applications of Random Process Excursion Analysis,2014-05-21 00:00:00
+312,Eleventh Hour CISSP (Second Edition),2015-02-10 00:00:00
+313,Echographie de la thyro‹de (2Šme ‚dition),2014-10-09 00:00:00
+314,Introduction to Mobile Robot Control,2015-01-14 00:00:00
+315,Managing Extreme Financial Risk,2014-07-23 00:00:00
+316,Success as an Online Student,2014-05-08 00:00:00
+317,Conflict Management for Security Professionals,2014-11-07 00:00:00
+318,Workplace Security Playbook,2015-04-10 00:00:00
+319,Autophagy: Cancer Other Pathologies Inflammation Immunity Infection and Aging: Role In General Diseases,2015-02-04 00:00:00
+320,Advanced Materials Science and Engineering of Carbon,2015-01-26 00:00:00
+321,Global Clinical Trials for Alzheimer's Disease,2014-12-02 00:00:00
+322,Nanomagnetism and Spintronics (Second Edition),2014-09-16 00:00:00
+323,Blogs and Tweets Texting and Friending,2015-01-06 00:00:00
+324,Intelligence and Human Progress,2015-03-16 00:00:00
+325,Microclimate for Cultural Heritage (Second Edition),2014-06-20 00:00:00
+326,Sexual Selection,2014-08-11 00:00:00
+327,Stock Identification Methods (Second Edition),2014-09-04 00:00:00
+328,Physiology of the Cladocera,2014-10-18 00:00:00
+329,Between the Lines of Genetic Code,2015-04-27 00:00:00
+330,Next Generation Knowledge Machines,2014-11-03 00:00:00
+331,Joe Celko?s Complete Guide to NoSQL,2014-10-04 00:00:00
+332,Network Convergence,2015-05-04 00:00:00
+333,The Digital Crown,2015-04-18 00:00:00
+334,Data Mining and Knowledge Discovery for Geoscientists,2014-09-17 00:00:00
+335,System Requirements Analysis (Second Edition),2014-11-18 00:00:00
+336,Introduction to the Mathematics of Finance (Second Edition),2014-12-29 00:00:00
+337,The Role of Animals in Emerging Viral Diseases,2014-07-11 00:00:00
+338,Noise and the Brain,2015-04-13 00:00:00
+339,Exterior Analysis,2014-08-13 00:00:00
+340,Transparency for Sustainability in the Food Chain,2015-04-13 00:00:00
+341,Principles of Biomedical Informatics (Second Edition),2015-01-26 00:00:00
+342,Managing and Leading for Science Professionals,2014-06-18 00:00:00
+343,Data Stewardship,2015-02-18 00:00:00
+344,X-Ways Forensics Practitioner?s Guide,2014-12-25 00:00:00
+345,CUDA Fortran for Scientists and Engineers,2015-03-19 00:00:00
+346,Big Data Analytics,2014-12-13 00:00:00
+347,Seismic Data Analysis Techniques in Hydrocarbon Exploration,2015-03-17 00:00:00
+348,Thermal Stresses and Temperature Control of Mass Concrete,2014-10-26 00:00:00
+349,Finite Element Analysis and Design of Metal Structures,2014-11-10 00:00:00
+350,New Approaches to Image Processing Based Failure Analysis of Nano-Scale ULSI Devices,2014-07-22 00:00:00
+351,Sulfur (Second Edition),2014-05-15 00:00:00
+352,Laboratory Statistics,2014-12-08 00:00:00
+353,Databook of Antiblocking Release and Slip Additives,2015-01-24 00:00:00
+354,An Introduction to Credit Derivatives (Second Edition),2014-12-13 00:00:00
+355,Econophysics,2014-06-24 00:00:00
+356,Risk Management for Food Allergy,2014-09-11 00:00:00
+357,Benign & Pathological Chromosomal Imbalances,2014-07-15 00:00:00
+358,Computer Incident Response and Forensics Team Management,2014-11-10 00:00:00
+359,Visual Computing for Medicine (Second Edition),2014-11-12 00:00:00
+360,Solar Energy Conversion Systems,2014-10-26 00:00:00
+361,Microwave De-embedding,2014-12-13 00:00:00
+362,The Finite Element Method for Solid and Structural Mechanics (Seventh Edition),2014-06-19 00:00:00
+363,Thermoforming of Single and Multilayer Laminates,2014-12-15 00:00:00
+364,Microbiology of Waterborne Diseases (Second Edition),2014-11-26 00:00:00
+365,Nanocrystalline Materials (Second Edition),2014-10-26 00:00:00
+366,Investigating Internet Crimes,2015-01-08 00:00:00
+367,Animal Biotechnology,2015-02-22 00:00:00
+368,Lees' Process Safety Essentials,2014-07-05 00:00:00
+369,Platform Ecosystems,2014-09-02 00:00:00
+370,Real World Multicore Embedded Systems,2014-10-29 00:00:00
+371,The Immunoassay Handbook (Fourth Edition),2014-09-21 00:00:00
+372,Human Behavior in Hazardous Situations,2014-12-28 00:00:00
+373,Perfume Engineering,2015-03-13 00:00:00
+374,Computation and Storage in the Cloud,2015-05-01 00:00:00
+375,Mineral Exploration,2014-07-31 00:00:00
+376,Volcanic Reservoirs in Petroleum Exploration,2014-11-24 00:00:00
+377,Flow Networks,2014-12-03 00:00:00
+378,Metaheuristic Applications in Structures and Infrastructures,2015-01-17 00:00:00
+379,Mathematical Modeling (Fourth Edition),2014-11-16 00:00:00
+380,Nonclinical Study Contracting and Monitoring,2015-04-08 00:00:00
+381,PAKs RAC/CDC42 (p21)-activated Kinases,2014-08-06 00:00:00
+382,Space Groups for Solid State Scientists (Third Edition),2015-02-07 00:00:00
+383,Biological Research on Addiction,2014-12-21 00:00:00
+384,Individual Case Formulation,2014-05-05 00:00:00
+385,Interventions for Addiction,2015-01-26 00:00:00
+386,Principles of Addiction,2014-11-18 00:00:00
+387,Product Performance Evaluation using CAD/CAE,2014-10-28 00:00:00
+388,Practical Aviation Security (Second Edition),2014-11-18 00:00:00
+389,Security Science,2015-04-18 00:00:00
+390,Profiling and Serial Crime (Third Edition),2014-05-23 00:00:00
+391,Ligand Efficiency Indices for Drug Discovery,2015-04-18 00:00:00
+392,Autophagy: Cancer Other Pathologies Inflammation Immunity Infection and Aging: Molecular Mechanisms,2014-09-08 00:00:00
+393,Flavour Science,2015-01-09 00:00:00
+394,Nutrition and Enhanced Sports Performance,2014-11-19 00:00:00
+395,Molten Salts Chemistry,2015-04-12 00:00:00
+396,The Finite Element Method (Second Edition),2014-07-08 00:00:00
+397,Measuring Ocean Currents,2014-10-06 00:00:00
+398,Principles of Environmental Physics (Fourth Edition),2014-05-10 00:00:00
+399,Toxoplasma Gondii (Second Edition),2014-05-11 00:00:00
+400,Introduction to Diffusion Tensor Imaging (Second Edition),2014-07-26 00:00:00
+401,Genomic Biomarkers for Pharmaceutical Development,2014-08-01 00:00:00
+402,WAIS-IV WMS-IV and ACS,2015-04-20 00:00:00
+403,Elementary Molecular Quantum Mechanics (Second Edition),2014-07-12 00:00:00
+404,Arctic Pipeline Planning,2014-12-28 00:00:00
+405,Understanding Injection Molds,2014-10-11 00:00:00
+406,Plastics Failure Guide (Second Edition),2014-09-19 00:00:00
+407,Principles of Pulmonary Medicine (Sixth Edition),2014-06-06 00:00:00
+408,Homicide Investigation Field Guide,2015-04-04 00:00:00
+409,Food Process Engineering and Technology (Second Edition),2014-10-04 00:00:00
+410,Escherichia Coli (Second Edition),2014-05-08 00:00:00
+411,Process Intensification (Second Edition),2014-07-12 00:00:00
+412,Evolution of Global Electricity Markets,2014-08-10 00:00:00
+413,Shale Gas Production Processes,2014-05-20 00:00:00
+414,The Grouting Handbook (Second Edition),2014-08-10 00:00:00
+415,Ethical Justice,2015-02-24 00:00:00
+416,Alternate Light Source Imaging,2014-10-14 00:00:00
+417,Biohydrogen,2014-08-16 00:00:00
+418,Mathematics for Physical Chemistry (Fourth Edition),2015-02-28 00:00:00
+419,Critical Excitation Methods in Earthquake Engineering (Second Edition),2015-04-09 00:00:00
+420,The Biogeography of the Australian North West Shelf,2014-12-18 00:00:00
+421,Corporate Security Organizational Structure Cost of Services and Staffing Benchmark,2014-11-08 00:00:00
+422,The Benefits and Security Risks of Web-based Applications for Business,2015-03-14 00:00:00
+423,Gua Sha (Second Edition),2014-08-26 00:00:00
+424,Trigger Point Dry Needling,2014-11-25 00:00:00
+425,Principles and Practice of Phytotherapy (Second Edition),2015-04-19 00:00:00
+426,Oral and Maxillofacial Medicine (Third Edition),2014-07-04 00:00:00
+427,The Complementary Therapist's Guide to Red Flags and Referrals,2015-04-30 00:00:00
+428,Inflammation Advancing Age and Nutrition,2015-04-24 00:00:00
+429,Laboratory Animal Welfare,2014-06-30 00:00:00
+430,Adsorption by Powders and Porous Solids (Second Edition),2014-10-07 00:00:00
+431,Business Continuity and Disaster Recovery Planning for IT Professionals (Second Edition),2015-03-16 00:00:00
+432,The Basics of Cloud Computing,2015-01-25 00:00:00
+433,Mechanical Design Engineering Handbook,2015-02-24 00:00:00
+434,Advanced Ceramics for Dentistry,2014-05-31 00:00:00
+435,Modern Physical Metallurgy (Eighth Edition),2015-04-24 00:00:00
+436,Cardiac Electrophysiology: From Cell to Bedside (Sixth Edition),2015-02-08 00:00:00
+437,Essential Oil Safety (Second Edition),2014-12-06 00:00:00
+438,Fundamentals of Hand Therapy (Second Edition),2015-01-05 00:00:00
+439,Auriculotherapy Manual (Fourth Edition),2014-07-24 00:00:00
+440,Equine Infectious Diseases (Second Edition),2014-06-26 00:00:00
+441,Canine Rehabilitation and Physical Therapy (Second Edition),2014-08-15 00:00:00
+442,Atlas of Canine and Feline Peripheral Blood Smears,2014-12-18 00:00:00
+443,The Muscle Test Handbook,2014-06-23 00:00:00
+444,Equine Applied and Clinical Nutrition,2015-02-16 00:00:00
+445,Veterinary Dentistry for the General Practitioner (Second Edition),2014-08-04 00:00:00
+446,-- Book Title not available --,2014-07-18 00:00:00
+447,Domino Effects in the Process Industries,2014-12-01 00:00:00
+448,High Performance Deformable Image Registration Algorithms for Manycore Processors,2015-02-08 00:00:00
+449,Intelligent Networks,2015-02-15 00:00:00
+450,Risk Management Framework,2015-02-28 00:00:00
+451,Solar Energy Forecasting and Resource Assessment,2014-07-30 00:00:00
+452,Product Manufacturing and Cost Estimating Using Cad/Cae,2014-08-27 00:00:00
+453,Managing Ocean Environments in a Changing Climate,2014-09-13 00:00:00
+454,Avian Immunology (Second Edition),2015-01-09 00:00:00
+455,Informatics for Materials Science and Engineering,2014-06-11 00:00:00
+456,Chronic Pain and Brain Abnormalities,2015-01-15 00:00:00
+457,Fukushima Accident,2015-04-15 00:00:00
+458,Introduction to Supercritical Fluids,2014-10-08 00:00:00
+459,UI is Communication,2014-11-23 00:00:00
+460,Carbonate Reservoirs,2014-09-18 00:00:00
+461,Designing SCADA Application Software,2015-02-17 00:00:00
+462,Antibody Fc,2014-11-15 00:00:00
+463,Novel Psychoactive Substances,2014-12-21 00:00:00
+464,Seismic Safety Evaluation of Concrete Dams,2014-07-25 00:00:00
+465,Crime Scene Investigation (Third Edition),2015-04-10 00:00:00
+466,Insect Molecular Genetics (Third Edition),2014-09-23 00:00:00
+467,Clay-containing Polymer Nanocomposites,2014-09-23 00:00:00
+468,Experimental Methods and Instrumentation for Chemical Engineers,2015-04-12 00:00:00
+469,Software Engineering for Embedded Systems,2014-05-30 00:00:00
+470,Mastering Cloud Computing,2014-05-27 00:00:00
+471,Theory of Quantum and Classical Connections in Modeling Atomic Molecular and Electrodynamical Systems,2014-05-15 00:00:00
+472,Innovations in Food Packaging (Second Edition),2014-11-14 00:00:00
+473,Insect Resistance Management (Second Edition),2014-10-16 00:00:00
+474,Interdisciplinary Mentoring in Science,2015-01-20 00:00:00
+475,Mobile User Experience,2014-08-01 00:00:00
+476,Sustainability Energy and Architecture,2014-06-01 00:00:00
+477,The Science of Algorithmic Trading and Portfolio Management,2015-01-12 00:00:00
+478,Unified Communications Forensics,2014-08-16 00:00:00
+479,Linear Algebra (Third Edition),2015-01-18 00:00:00
+480,Pipeline Rules of Thumb Handbook (Eighth Edition),2014-11-15 00:00:00
+481,Applied Nanotechnology (Second Edition),2015-02-16 00:00:00
+482,High Resolution NMR Spectroscopy,2015-01-22 00:00:00
+483,R¡o-Hortega?s Third Contribution to the Morphological Knowledge and Functional Interpretation of the Oligodendroglia,2015-02-18 00:00:00
+484,Proteomic Profiling and Analytical Chemistry,2015-02-11 00:00:00
+485,Cerebral Palsy in Infancy,2015-04-10 00:00:00
+486,Orthognathic Surgery,2014-05-15 00:00:00
+487,Therapeutic Stretching,2014-09-26 00:00:00
+488,Acute Care Handbook for Physical Therapists (Fourth Edition),2014-09-21 00:00:00
+489,Handbook of Equine Emergencies,2014-12-17 00:00:00
+490,Textbook of Rabbit Medicine (Second Edition),2015-03-20 00:00:00
+491,Veterinary Anaesthesia (Eleventh Edition),2014-05-25 00:00:00
+492,Chi-Squared Goodness of Fit Tests with Applications,2014-08-08 00:00:00
+493,Renewable Hydrogen Technologies,2014-09-29 00:00:00
+494,Data Warehousing in the Age of Big Data,2014-09-26 00:00:00
+495,Simple Steps to Data Encryption,2015-03-11 00:00:00
+496,Optical Fiber Telecommunications (Sixth Edition),2014-12-22 00:00:00
+497,Handbook of Ferroalloys,2015-03-15 00:00:00
+498,Cellular Migration and Formation of Neuronal Connections,2015-01-10 00:00:00
+499,Neural Circuit Development and Function in the Brain,2015-04-04 00:00:00
+500,Patterning and Cell Type Specification in the Developing Cns and Pns,2015-01-15 00:00:00
+501,Haschek and Rousseaux's Handbook of Toxicologic Pathology (Third Edition),2014-11-03 00:00:00
+502,Handbook of Energy: Diagrams Charts and Tables,2015-04-18 00:00:00
+503,Troubleshooting and Analysis of Single-screw Extrusion,2014-10-17 00:00:00
+504,Flow Analysis (Second Edition),2015-04-25 00:00:00
+505,Simple Methods for Identification of Plastics (Fifth Edition),2014-12-07 00:00:00
+506,23rd European Symposium on Computer Aided Process Engineering,2014-10-17 00:00:00
+507,Neurological Rehabilitation,2014-10-21 00:00:00
+508,Seismic Fracture Characterization,2015-01-04 00:00:00
+509,Cognition in Geosciences,2014-05-10 00:00:00
+510,Treatise on Process Metallurgy: Industrial Processes,2014-10-13 00:00:00
+511,Penetration Testing with Backtrack 5,2014-10-22 00:00:00
+512,Modelling Methodology for Physiology and Medicine (Second Edition),2015-02-28 00:00:00
+513,Malware Forensics Field Guide for Linux Systems,2015-02-16 00:00:00
+514,The Guide to Investigation of Mouse Pregnancy,2015-03-31 00:00:00
+515,Handbook of Polymer Applications in Medicine and Medical Devices,2015-01-15 00:00:00
+516,Psychoonkologie (2. Auflage),2015-02-19 00:00:00
+517,Therapie Psychischer Erkrankungen 009,2014-07-19 00:00:00
+518,Strabisme,2015-02-21 00:00:00
+519,Conf‚rences D'enseignement 2013,2014-12-05 00:00:00
+520,Social and Ethical Aspects of Radiation Risk Management,2015-01-28 00:00:00
+521,Chemometrics in Food Chemistry,2014-09-07 00:00:00
+522,Geophysics for Petroleum Engineers,2014-08-26 00:00:00
+523,Phase Equilibrium Engineering,2014-12-17 00:00:00
+524,Mesoscale Meteorological Modeling,2014-11-08 00:00:00
+525,Specification of Drug Substances and Products,2015-05-03 00:00:00
+526,Social Media Security,2014-09-14 00:00:00
+527,Building Valve Amplifiers (Second Edition),2014-08-09 00:00:00
+528,Emerging Trends in ICT Security,2014-08-27 00:00:00
+529,Catalogue of the Cicadoidea (Hemiptera: Auchenorrhyncha),2014-06-11 00:00:00
+530,Thermosets and Composites (Second Edition),2015-02-18 00:00:00
+531,Cardiology Secrets (Fourth Edition),2015-03-30 00:00:00
+532,Applied Cyber Security and the Smart Grid,2014-05-05 00:00:00
+533,Managing Data in Motion,2015-01-13 00:00:00
+534,Writing for Interaction,2014-09-25 00:00:00
+535,Analysis of Turbulent Flows with Computer Programs (Third Edition),2014-09-23 00:00:00
+536,Msp430-based Robot Applications,2015-02-23 00:00:00
+537,Multi-criteria Decision Analysis for Supporting the Selection of Engineering Materials in Product Design,2014-10-03 00:00:00
+538,Human-computer Interaction,2014-08-06 00:00:00
+539,Geomaterials Under the Microscope,2014-12-30 00:00:00
+540,Peripheral Nerve Disorders,2015-04-09 00:00:00
+541,Brain Stimulation,2014-10-18 00:00:00
+542,Animal Models for the Study of Human Disease,2014-06-10 00:00:00
+543,Chemistry of Plant Phosphorus Compounds,2014-10-17 00:00:00
+544,Cloud Computing,2014-10-23 00:00:00
+545,Human Motion Simulation,2014-07-10 00:00:00
+546,Matlab (Third Edition),2014-06-16 00:00:00
+547,Electromagnetic Surface Waves,2015-04-19 00:00:00
+548,Computational Toxicology,2014-05-13 00:00:00
+549,National Kidney Foundation Primer on Kidney Diseases (Sixth Edition),2014-08-06 00:00:00
+550,Integrated Pest Management,2015-04-25 00:00:00
+551,Methods in Biomedical Informatics,2014-05-12 00:00:00
+552,-- Book Title not available --,2015-04-17 00:00:00
+553,Cyber Security and IT Infrastructure Protection,2015-02-03 00:00:00
+554,Managing Information Security (Second Edition),2015-01-25 00:00:00
+555,Network and System Security (Second Edition),2014-05-09 00:00:00
+556,Credible Checklists and Quality Questionnaires,2015-01-16 00:00:00
+557,Total Information Risk Management,2015-02-21 00:00:00
+558,Research Approaches to Sustainable Biomass Systems,2015-01-31 00:00:00
+559,The Finite Element Method: its Basis and Fundamentals (Seventh Edition),2015-03-08 00:00:00
+560,Spatial Capture-recapture,2014-09-25 00:00:00
+561,Venture Capital and Private Equity Contracting (Second Edition),2015-04-27 00:00:00
+562,Medical Imaging Technology,2014-10-21 00:00:00
+563,Placebo and Pain,2014-05-05 00:00:00
+564,Digital Forensics Processing and Procedures,2015-01-16 00:00:00
+565,Bringing a Corporate Security Culture to Life,2014-09-05 00:00:00
+566,Personnel Protection: Executive Compensation and Fringe Benefits,2014-07-20 00:00:00
+567,Personnel Protection: Security Personnel,2014-12-26 00:00:00
+568,Personnel Protection: Executive Worksite Security,2015-01-24 00:00:00
+569,Conjugate Heat and Mass Transfer in Heat Mass Exchanger Ducts,2014-08-08 00:00:00
+570,Mid-Latitude Slope Deposits (Cover Beds),2014-05-17 00:00:00
+571,Recognizing and Treating Breathing Disorders (Second Edition),2014-08-18 00:00:00
+572,Endodontics (Fourth Edition),2015-01-07 00:00:00
+573,Equine Emergencies (Fourth Edition),2015-02-02 00:00:00
+574,Feline Soft Tissue and General Surgery,2015-05-04 00:00:00
+575,Knottenbelt and Pascoe's Color Atlas of Diseases and Disorders of the Horse (Second Edition),2014-06-30 00:00:00
+576,Llama and Alpaca Care,2015-03-08 00:00:00
+577,Equine Sports Medicine and Surgery (Second Edition),2014-07-19 00:00:00
+578,Current Therapy in Reptile Medicine and Surgery,2014-12-12 00:00:00
+579,Piermattei's Atlas of Surgical Approaches to the Bones and Joints of the Dog and Cat (Fifth Edition),2015-04-21 00:00:00
+580,Catecholamine Research in the 21st Century,2014-12-07 00:00:00
+581,Diagnostic Ultrasound Imaging: Inside Out (Second Edition),2014-07-28 00:00:00
+582,Flow-induced Vibrations (Second Edition),2015-01-28 00:00:00
+583,Plastics in Medical Devices (Second Edition),2014-05-25 00:00:00
+584,Explorations in Topology,2014-11-15 00:00:00
+585,Computational Systems Biology (Second Edition),2014-06-21 00:00:00
+586,Using Information to Develop a Culture of Customer Centricity,2014-05-26 00:00:00
+587,Pharmacology and Physiology for Anesthesia,2014-10-13 00:00:00
+588,Heterogeneous Catalysis of Mixed Oxides,2014-07-23 00:00:00
+589,Applications of Quantum and Classical Connections in Atomic Molecular and Electrodynamic Systems,2014-12-19 00:00:00
+590,An Introduction to Nonsmooth Analysis,2014-05-08 00:00:00
+591,Introduction to Probability (Second Edition),2015-04-01 00:00:00
+592,Agile Software Architecture,2014-10-07 00:00:00
+593,Distributed Computing Through Combinatorial Topology,2015-03-27 00:00:00
+594,Handbook of Thermoset Plastics (Third Edition),2014-08-21 00:00:00
+595,Nanostructured Polymer Blends,2014-06-06 00:00:00
+596,Multi-asset Risk Modeling,2014-07-08 00:00:00
+597,The Autoimmune Diseases (Fifth Edition),2014-05-22 00:00:00
+598,An Introduction to Nuclear Waste Immobilisation (Second Edition),2015-04-20 00:00:00
+599,Data Mining Applications with R,2014-09-06 00:00:00
+600,Neuroanatomy of Language Regions of the Human Brain,2014-10-12 00:00:00
+601,Nanoparticles and the Immune System,2015-03-03 00:00:00
+602,Cleaning with Solvents,2014-10-06 00:00:00
+603,Molecular Sensors and Nanodevices,2014-06-24 00:00:00
+604,Building the Most Complex Structure on Earth,2015-01-11 00:00:00
+605,Advanced Water Injection for Low Permeability Reservoirs,2015-03-20 00:00:00
+606,Rabies (Third Edition),2014-12-03 00:00:00
+607,Powering Biomedical Devices,2015-04-20 00:00:00
+608,The Compliance Response to Misconduct Allegations (Second Edition),2015-02-23 00:00:00
+609,Business Continuity (Second Edition),2015-05-04 00:00:00
+610,Nine Practices of the Successful Security Leader,2014-10-23 00:00:00
+611,International Security Programs Benchmark Report,2014-11-01 00:00:00
+612,Bring your Own Device (BYOD) to Work,2015-01-20 00:00:00
+613,Domestic Violence Spills Over Into the Workplace,2014-12-14 00:00:00
+614,Establishing the Value of All-hazards Risk Mitigation,2014-07-10 00:00:00
+615,From One Winning Career to the Next (Second Edition),2014-10-31 00:00:00
+616,Managing Risks in Business,2015-04-27 00:00:00
+617,Crisis Management At the Speed of the Internet,2014-08-11 00:00:00
+618,Engineering with Rubber,2015-04-23 00:00:00
+619,Mixing of Rubber Compounds,2015-01-26 00:00:00
+620,Nano- and Micromechanics of Polymers,2014-05-18 00:00:00
+621,Synthetic Polymer?Polymer Composites,2015-02-14 00:00:00
+622,Material Science of Polymers for Engineers (Third Edition),2015-01-05 00:00:00
+623,Understanding Plastics Engineering Calculations,2015-03-15 00:00:00
+624,Adhesion and Adhesives Technology (Third Edition),2015-03-08 00:00:00
+625,Polyethylene,2015-01-26 00:00:00
+626,Understanding Additive Manufacturing,2014-11-13 00:00:00
+627,Dictionary of Trees Volume 2: South America,2015-01-25 00:00:00
+628,Laboratory Animals,2014-08-27 00:00:00
+629,The Moderator's Survival Guide,2015-02-20 00:00:00
+630,Heat Pipes (Sixth Edition),2014-07-13 00:00:00
+631,Clearing Settlement and Custody (Second Edition),2014-09-23 00:00:00
+632,Mergers Acquisitions and Other Restructuring Activities (Seventh Edition),2015-02-25 00:00:00
+633,Cyber Warfare (Second Edition),2014-10-07 00:00:00
+634,Tomato Diseases (Second Edition),2014-08-18 00:00:00
+635,Immune Biology of Allogeneic Hematopoietic Stem Cell Transplantation,2014-05-31 00:00:00
+636,Nutrigenetics,2014-08-01 00:00:00
+637,The Dictionary of Cell & Molecular Biology (Fifth Edition),2014-05-20 00:00:00
+638,Transforming your Stem Career Through Leadership and Innovation,2014-12-04 00:00:00
+639,Encyclopedia of the Alkaline Earth Compounds,2014-08-12 00:00:00
+640,Practical Approaches to Biological Inorganic Chemistry,2014-05-26 00:00:00
+641,Heterogeneous Computing with Opencl (Second Edition),2015-01-02 00:00:00
+642,Measuring Data Quality for Ongoing Improvement,2014-07-07 00:00:00
+643,Geology and Sedimentology of the Korean Peninsula,2014-05-24 00:00:00
+644,Unconventional Petroleum Geology,2014-11-04 00:00:00
+645,Sustainable Energy Management,2014-10-25 00:00:00
+646,Analog Circuit Design: Immersion in the Black Art of Analog Design,2014-05-21 00:00:00
+647,Linux for Embedded and Real-time Applications (Third Edition),2014-10-23 00:00:00
+648,Pressure Vessel Design Manual (Fourth Edition),2015-01-13 00:00:00
+649,Biogeochemistry (Third Edition),2014-09-23 00:00:00
+650,Designing Science Presentations,2014-07-08 00:00:00
+651,Play Therapy Treatment Planning and Interventions (Second Edition),2014-08-19 00:00:00
+652,Autonomic Nervous System,2014-07-16 00:00:00
+653,Genetics and the Behavior of Domestic Animals (Second Edition),2014-06-20 00:00:00
+654,Software Engineering,2014-09-04 00:00:00
+655,Pharmacy Law and Practice (Fifth Edition),2015-04-22 00:00:00
+656,Industrial Process Scale-up,2015-03-15 00:00:00
+657,Rotational Structure in Molecular Infrared Spectra,2014-05-31 00:00:00
+658,Understanding Augmented Reality,2015-02-06 00:00:00
+659,Bioenergetics (Fourth Edition),2014-06-13 00:00:00
+660,Engineered Biomimicry,2015-01-29 00:00:00
+661,Proteomic and Metabolomic Approaches to Biomarker Discovery,2015-01-27 00:00:00
+662,Transport in Biological Media,2015-03-12 00:00:00
+663,Measuring the User Experience (Second Edition),2014-10-24 00:00:00
+664,Developments in Surface Contamination and Cleaning: Methods of Cleaning and Cleanliness Verification ,2015-03-30 00:00:00
+665,Markov Processes for Stochastic Modeling (Second Edition),2014-09-05 00:00:00
+666,The Mereon Matrix,2014-05-31 00:00:00
+667,Fighting Multidrug Resistance with Herbal Extracts Essential Oils and their Components,2014-09-14 00:00:00
+668,Fundamentals of Magnetism,2014-12-12 00:00:00
+669,Pic Projects and Applications Using C (Third Edition),2014-11-30 00:00:00
+670,Practical Web Analytics for User Experience,2015-02-09 00:00:00
+671,Investing in Hedge Funds,2015-02-12 00:00:00
+672,Crime Prevention Through Environmental Design (Third Edition),2014-10-20 00:00:00
+673,Advanced Mechanics of Composite Materials (Third Edition),2014-05-24 00:00:00
+674,Neuroparasitology and Tropical Neurology,2014-11-18 00:00:00
+675,Alan Turing: His Work and Impact,2015-04-29 00:00:00
+676,The Basics of Hacking and Penetration Testing (Second Edition),2014-10-29 00:00:00
+677,Complications et S‚quelles des Traitements en Canc‚rologie ORL,2014-12-25 00:00:00
+678,La Contraception en Pratique,2015-03-02 00:00:00
+679,18 Mises au Point en Chirurgie du Genou,2014-09-06 00:00:00
+680,Manuel Pratique De Chirurgie Orthop‚dique,2014-10-15 00:00:00
+681,Imagerie Post-Th‚rapeutique en Oncologie,2014-07-11 00:00:00
+682,Sea Urchins: Biology and Ecology,2014-10-19 00:00:00
+683,H„modynamisches Monitoring (2. Auflage),2014-12-08 00:00:00
+684,Pr„vention und Therapie neurologischer und psychischer Krankheiten durch Sport,2015-02-07 00:00:00
+685,Von der wissenschaftlichen Fragestellung zur Publikation,2014-05-07 00:00:00
+686,Žrztliche Entscheidungen Bei der Durchfhrung von pr„klinischen Reanimationen,2014-12-28 00:00:00
+687,Begutachtung bei Menschen mit Migrationshintergrund (2. Auflage),2014-07-13 00:00:00
+688,Integrative Onkologie,2014-05-12 00:00:00
+689,Sozialp„diatrie in der Praxis (2. Auflage),2014-05-28 00:00:00
+690,Imagerie Musculosquelettique : Pathologies G‚n‚rales (2Šme ‚dition),2014-12-21 00:00:00
+691,Scanner et Rayons X,2015-02-20 00:00:00
+692,Techniques Arthroscopiques du Membre Sup‚rieur,2014-10-22 00:00:00
+693,31e Journ‚e De Traumatologie du Sport De la Piti‚,2014-08-31 00:00:00
+694,Genetic and Genomic Resources of Grain Legume Improvement,2014-10-29 00:00:00
+695,Bioconjugate Techniques (Third Edition),2014-07-09 00:00:00
+696,Linear Feedback Controls,2014-12-08 00:00:00
+697,Offshore Pipelines (Second Edition),2014-05-05 00:00:00
+698,Practical Anonymity,2014-08-14 00:00:00
+699,Therapeutic Strategies in Cancer Biology and Pathology,2014-07-02 00:00:00
+700,Numerical Methods for Roots of Polynomials - Part II,2014-05-13 00:00:00
+701,Conf‚rences d'enseignement de la SOFCOT 2012,2014-11-05 00:00:00
+702,Le ligament crois‚ ant‚rieur: de la rupture … l'arthrose,2014-11-29 00:00:00
+703,Chirurgie coeloscopique en gyn‚cologie (2Šme ‚dition),2014-08-08 00:00:00
+704,Imagerie Thoracique,2014-08-05 00:00:00
+705,Food Industry Wastes,2014-11-28 00:00:00
+706,Handbook of Biologically Active Peptides (Second Edition),2015-04-14 00:00:00
+707,Mechanisms of Morphogenesis (Second Edition),2014-08-15 00:00:00
+708,Accurate Results in the Clinical Laboratory,2015-01-10 00:00:00
+709,In Situ Molecular Pathology and Co-expression Analyses,2014-06-01 00:00:00
+710,Energy Optimization in Process Systems and Fuel Cells (Second Edition),2015-04-04 00:00:00
+711,Pem Fuel Cell Testing and Diagnosis,2015-03-08 00:00:00
+712,Characterization of Semiconductor Heterostructures and Nanostructures (Second Edition),2015-04-17 00:00:00
+713,Nanochemistry (Second Edition),2014-11-14 00:00:00
+714,Analyzing the Social Web,2014-10-29 00:00:00
+715,Brainstorming and Beyond,2014-12-05 00:00:00
+716,Intel Xeon Phi Coprocessor High Performance Programming,2015-01-28 00:00:00
+717,Energy Efficiency,2015-02-08 00:00:00
+718,Digital Signal Processing (Second Edition),2014-08-23 00:00:00
+719,Electric Motors and Drives (Fourth Edition),2014-07-03 00:00:00
+720,Manufacturing Process Selection Handbook,2014-05-08 00:00:00
+721,Placing the Suspect Behind the Keyboard,2014-05-23 00:00:00
+722,Guide to Essential Math (Second Edition),2014-05-19 00:00:00
+723,Pharmacogenomics,2014-05-26 00:00:00
+724,Fun in Fusion Research,2014-09-04 00:00:00
+725,Neutron and X-ray Optics,2014-07-04 00:00:00
+726,Handbook of Child and Adolescent Sexuality,2015-04-09 00:00:00
+727,Solution Focused Anxiety Management,2014-10-26 00:00:00
+728,Treating Worker Dissatisfaction During Economic Change,2014-06-24 00:00:00
+729,Killing Public Higher Education,2015-01-24 00:00:00
+730,Mesenchymal Stem Cells and Skeletal Regeneration,2015-02-12 00:00:00
+731,Strategic Intelligence Management,2014-08-28 00:00:00
+732,When Culture Impacts Health,2014-11-28 00:00:00
+733,Liquid Chromatography: Applications,2015-02-08 00:00:00
+734,Liquid Chromatography: Fundamentals and Instrumentation,2015-02-21 00:00:00
+735,Web Services Service-oriented Architectures and Cloud Computing (Second Edition),2015-05-01 00:00:00
+736,Engineering Design Planning and Management,2014-11-01 00:00:00
+737,Intelligent Systems for Security Informatics,2014-11-19 00:00:00
+738,Introduction to Naval Architecture (Fifth Edition),2015-03-21 00:00:00
+739,Mimo Wireless Networks (Second Edition),2015-01-13 00:00:00
+740,Raising Entrepreneurial Capital (Second Edition),2014-07-05 00:00:00
+741,Security and Loss Prevention (Sixth Edition),2014-11-11 00:00:00
+742,-- Book Title not available --,2015-03-25 00:00:00
+743,Paleoclimatology (Third Edition),2014-08-15 00:00:00

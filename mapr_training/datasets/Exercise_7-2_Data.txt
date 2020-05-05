@@ -1,0 +1,16 @@
+$ mysql –u root -pmapr
+create database hbase;
+use hbase;
+grant all privileges on *.* to '%'@'%';
+flush privileges;
+mysql> create table empdetail (id int(7), firstName varchar(50), lastName varchar(50), age int(2), profession varchar(50));
+mysql> insert into empdetail values (4000001,"Kristina","Chung",55,"Pilot");
+mysql> insert into empdetail values (4000002,"Paige","Chen",74,"Teacher");
+mysql> insert into empdetail values (4000003,"Sherri","Melton",34,"Firefighter");
+mysql> insert into empdetail values (4000004,"Gretchen","Hill",66,"Computer hardware engineer");
+mysql> insert into empdetail values (4000005,"Karen","Puckett",74,"Lawyer");
+mysql> insert into empdetail values (4000006,"Patrick","Song",42,"Veterinarian");
+mysql> insert into empdetail values (4000007,"Elsie","Hamilton",43,"Pilot");
+mysql> insert into empdetail values (4000008,"Hazel","Bender",63,"Carpenter");
+mysql> insert into empdetail values (4000009,"Malcolm","Wagner",39,"Artist");
+mysql> insert into empdetail values (4000010,"Dolores","McLaughlin",60,"Writer");

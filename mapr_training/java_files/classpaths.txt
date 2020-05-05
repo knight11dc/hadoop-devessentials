@@ -1,0 +1,5 @@
+export HADOOP_HOME=/opt/mapr/hadoop/hadoop-0.20.2
+export PATH=$HADOOP_HOME/bin:$PATH
+export CLASSPATH=$HADOOP_HOME/*:$HADOOP_HOME/lib/*:.
+export MYCLASSPATH=$(hadoop classpath):$(hbase classpath):$CLASSPATH:.
+

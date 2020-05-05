@@ -1,0 +1,95 @@
+
+Step1: check if the MYSQL tables are present in POC database. If not, run the poc_mysql.sql file
+	Ex: source poc_mysql.sql (we have to be in project folder while executing this command).
+ 
+Step 2: Import the tables using sqoop (Before importing, create POC database in Hive)
+	 
+Note: create database POC;
+
+sqoop import --connect jdbc:mysql://localhost:3306/POC --username root --table Race --hive-import --hive-table 'POC.Race' --target-dir /user/hive/warehouse/Race -m 1
+sqoop import --connect jdbc:mysql://localhost:3306/POC --username root --table Region --hive-import --hive-table 'POC.Region' --target-dir /user/hive/warehouse/Region -m 1
+
+Step 3: Processing in Pig (local mode)
+
+cd /home/mapr/Desktop/mapr_training/project
+	
+Launch pig shell using pig –x local
+
+		a = load 'healthInsurance.csv' as ( str:chararray);
+		b = limit a 100;
+ 		c = foreach b generate REPLACE(str,'"','') as (str:chararray);
+		d = foreach c generate FLATTEN(STRSPLIT(str,',')) as (id:chararray,whrswk:chararray,hhi:chararray,whi:chararray,hhi2:chararray,education:chararray,race:chararray,hispanic:chararray,experience:chararray,kidslt6:chararray,kids618:chararray,husby:chararray,region:chararray,wght:chararray);
+		e = filter d by id != '';
+		f = foreach e generate id,whrswk,hhi,whi,hhi2,education,race,hispanic,experience,kidslt6,kids618,husby,region;			 
+		store f into 'HI_Pig_Output' using PigStorage('|');
+
+Step 4: Copy the directory generated from pig to HDFS to create external table.
+
+	cp -r /home/mapr/Desktop/mapr_training/project/HI_Pig_Output  /user/mapr/		 
+
+Step 5: Create external table and Join it with the Race and Regions table to obtain normalised table.
+		
+Create External Table:
+
+create external table HI_tmp
+(id int,whrswk int,hhi string,whi string,hhi2 string,education string,race string,hispanic string,experience int,kidslt6 int,kids618 int,husby decimal,region string)
+row format delimited
+fields terminated by '|'
+location '/user/mapr/HI_Pig_Output';
+
+Create Normalized Table:
+
+create table HI as 
+select h.id,whrswk,hhi,whi,hhi2,education,race.value as race,hispanic,experience,kidslt6,kids618,husby,region.value as region 
+from HI_tmp h join POC.race race on(h.race=race.id) join POC.Region region on(h.region = region.id);
+
+Step 6: Hive Queries
+
+1.	select count(*) from HI where whi = 'no' and hhi = 'no' and hhi2 ='no';
+	select region, count(*) from HI where whi = 'no' and hhi = 'no' and hhi2 ='no' group by region;
+
+2.	select min(husby)*1000, max(husby)*1000 from HI where whi = 'yes' and hhi2 = 'yes' and hhi = 'yes' ;
+
+3.	select education, avg(cast(experience as int)), avg(cast(whrswk as int)) from hi where cast(whrswk as int)> 0 group by education;
+
+4.	select education,race, min(husby), max(husby) from hi group by education,race;
+
+5.	select region, education, count(education) cnt from hi group by region,education order by cnt  desc;
+
+6.	select education, avg(whrswk) as AVG_WKG_HRS from HI where whi = 'yes' group by education;
+
+7.	select a.education,a.cnt, RANK() over (order by a.cnt desc) from (select education, count(*) as cnt from HI group by education) a;
+
+
+8. To create UDF,
+	a. Create a directory called pocudf
+		mkdir pocudf
+	b. Navigate to the directory and write the java code and save it as ed_year.java
+	    cd pocudf
+	c. Compile 
+		$ javac -cp `hadoop classpath`:/opt/mapr/hive/hive-1.2/lib/* ed_year.java
+	d. Create the jar
+		$ cd ..
+		$ jar -cf pocudf.jar pocudf
+		$ cp pocudf.jar /user/mapr/
+	e. Steps to use the Jar in hive	
+		hive> add jar /user/mapr/pocudf.jar;
+		hive> create temporary function ed_year as 'pocudf.ed_year';
+		hive> select ed_year(education) from HI;
+
+select region, whrswk, avg(ed_year(education)) from hi group by region,whrswk order by region, whrswk desc;
+
+IV. Writing data into file from hive and sqoop export.
+
+hive> insert overwrite directory '/user/mapr/HI_sqoop/' 
+ROW FORMAT DELIMITED 
+FIELDS TERMINATED BY ',' 
+select * from HI where whi ='yes' and hhi2 = 'yes' and kidslt6>0;
+
+V. Create table in Mysql before import
+
+mysql >create  table HI (id int(5),whrswk int(3),hhi char(3),whi char(3),hhi2 char(3),education char(15),race char(6),hispanic char(5),experience int(3),kidslt6 int(3),kids618 int(3),husby decimal(10),region char(15));
+
+Run the sqoop command
+
+sqoop export --connect jdbc:mysql://localhost:3306/poc --username root -m 1 --table HI --input-fields-terminated-by ',' --export-dir /user/mapr/HI_sqoop
