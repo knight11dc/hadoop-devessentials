@@ -1,0 +1,200 @@
+show tables;
+CREATE TABLE books_detail (book_id INT,
+book_title STRING,
+book_publishDate timestamp)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE;
+LOAD DATA LOCAL INPATH '/home/mapr/Desktop/mapr_training/datasets/books_data.txt' overwrite into table books_detail;
+select count(*) books_detail;
+select * from books_detail;
+select count(*) books_detail;
+drop table books_detail;
+show tables;
+exit
+;
+create table movies(DVD_Title string,
+Studio string,
+Status string,
+Sound string,
+Price decimal,
+Rating string,
+Year int,
+Genre String,
+UPC string,
+DVD_ReleaseDate timestamp)
+row format delimited
+fields terminated by ',';
+load data local inpath '/home/mapr/Desktop/mapr_training/datasets/movies.txt' into table movies; 
+;
+load data local inpath '/home/mapr/Desktop/mapr_training/datasets/movies.txt' into table movies; 
+;
+select count(*) from movies;
+show tables;
+select * from movies;
+drop table movies;
+create table movies(DVD_Title string,
+Studio string,
+Status string,
+Sound string,
+Price decimal,
+Rating string,
+Year int,
+Genre String,
+UPC string,
+DVD_ReleaseDate timestamp)
+row format delimited
+fields terminated by ',';
+load data local inpath '/home/mapr/Desktop/mapr_training/datasets/movies.txt' into table movies; 
+;;;
+select * from movies;
+show tables;
+drop table movies;
+create table movies1(DVD_Title string,
+Studio string,
+Status string,
+Sound string,
+Price decimal,
+Rating string,
+Year int,
+Genre String,
+UPC string,
+DVD_ReleaseDate timestamp)
+row format delimited
+fields terminated by ',';
+show tables;
+select * from movies1;
+load data local inpath '/home/mapr/Desktop/mapr_training/datasets/movies.txt' into table movies1; 
+;
+select * from movies1;
+select count(*) from movies1;
+show tables;
+select count(*) from movies;
+select count(*) from movies1;
+show tables;
+select count(*) from movies1;
+drop table movies1;
+create table movies1(DVD_Title string,
+Studio string,
+Status string,
+Sound string,
+Price decimal,
+Rating string,
+Year int,
+Genre String,
+UPC string,
+DVD_ReleaseDate timestamp)
+row format delimited
+fields terminated by ',';
+load data local inpath '/home/mapr/Desktop/mapr_training/datasets/movies.txt' into table movies1; 
+;
+drop table movies1;
+CREATE TABLE books_detail (book_id INT,
+book_title STRING,
+book_publishDate timestamp)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE;
+LOAD DATA LOCAL INPATH '/home/mapr/Desktop/mapr_training/datasets/books_data.txt' overwrite into table books_detail;
+select count(*) from books_detail;
+exit
+/
+;
+exit
+;
+select count(*) from books_detail;
+show tables;
+CREATE TABLE books_detail (book_id INT,
+book_title STRING,
+book_publishDate timestamp)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE;
+LOAD DATA LOCAL INPATH '/home/mapr/Desktop/mapr_training/datasets/books_data.txt' overwrite into table books_detail;
+select count(*) from books_detail;
+drop table books_detail
+;
+show tables;
+exit;
+show tables;
+create table temp (name varchar(2));
+select count(*) from temp;
+exit
+;
+show tables;
+select count(*) from temp;
+exit
+;
+show tables;
+drop table temp;
+show tables;
+exit;
+create table fruit (id int, name string, fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;
+show databases;
+show tables;
+describe fruit
+;
+select * from fruit;
+dfs -ls data;
+load data inpath 'data/exercise2.txt' into table fruit;
+select * from fruit;
+drop table fruit;
+ls /user/hive/warehouse
+;
+dfs -ls /user/hive/warehouse;
+dfs -cp databackup/exercise2.txt data/;
+dfs -ls /data
+;
+dfs -ls /data;
+dfs -ls data;
+dfs -ls databackup;
+dfs -cp data/marks.txt databackup/;
+create external table fruitbase (id int, name string, fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;
+dfs /user
+dfs /user;
+dfs -l /user;
+dfs -ls /user;
+dfs -ls /user/hive;
+dfs -ls /user/hive/warehouse;
+dfs -ls /user/hive/warehouse/fruitbase;
+dfs -cat /user/hive/warehouse/fruitbase;
+show tables;
+describe extended fruitbase;
+load data local inpath '/home/mapr/Desktop/mapr_training/data/exercise2.txt' into table fruitbase;
+load data local inpath '/home/mapr/Desktop/mapr_training/datasets/data/exercise2.txt' into table fruitbase;
+load data local inpath '/home/mapr/Desktop/mapr_training/datasets/exercise2.txt' into table fruitbase;
+select * from fruitbase;
+drop table fruitbase;
+create table fruitbase (index int, student string, fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;
+select * from fruitbase;
+show history;
+show tables;
+create table apple (id  int, name string, fruit string) row formate delimited fields terminated by ',' stored as TEXTFILE;
+create table apple (id  int, name string, fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;
+insert into table apple select * from fruitraw where fruit like 'apple';
+show tables;
+insert into table apple select * from fruitraw where fruitbase like 'apple';
+insert into table apple select * from fruitbase where fruit like 'apple';
+select * from apple;
+create table froutnondyn (id int, name string) partitioned by (fruit string) row format delimited fields feminated by ',' stored as TEXTFILE;
+create table froutnondyn (id int, name string) partitioned by (fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;
+describe extended fruitnondyn;
+describe extended fruotnondyn;
+describe extended froutnondyn;
+rename table froutnondyn fruitnondyn;
+drop table froutnondyn;
+create table fruitnondyn (id int, name string) partitioned by (fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;
+drop table fruitnondyn;
+create table fruitpartition (id int, name string) partitioned by (fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;
+insert into table fruitpartition partition (fruit) select id, name, fruit from fruitbase;
+create table fruitpartition (id int, name string) partitioned by (fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;set hive.exec.dynamic.partition.mode=nonstrict;
+drop table fruit partition;
+drop table fruitpartition;
+create table fruitpartition (id int, name string) partitioned by (fruit string) row format delimited fields terminated by ',' stored as TEXTFILE;set hive.exec.dynamic.partition.mode=nonstrict;
+insert into table fruitpartition partition (fruit) select id, name, fruit from fruitbase;
+describe fruitbase;
+insert into table fruitpartition partition (fruit) select index, student, fruit from fruitbase;
+set hive.enforce.bucketing = true;
+set mapred.input.dir.recursive = true;
+set hive.mapred.supports.subdirectories = true;
+create table fruitbucket (id int, name string, fruit string) clustered by (fruit) into 3 buckets row format delimited fields terminated by ',' stored as TEXTFILE'
